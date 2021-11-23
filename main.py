@@ -29,4 +29,4 @@ def sendppgrow(tkn, cid):
     print("Mensagem enviada!\n")
     return sendppgrow(token, channel_id)
 
-sendppgrow(token, channel_id) 
+sendppgrow(token, channel_id)
