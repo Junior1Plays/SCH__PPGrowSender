@@ -4,4 +4,4 @@ o Discord "pp grow" sender, serve para você conseguir farmar pp inches sem prec
 # v1.0
 "pp grow" sender lançado.
 # v1.1
-quando 50 mensagens for enviadas, o terminal/console irá aguardar 30 segundos para prosseguir.
+quando 150 mensagens for enviadas, o terminal/console irá aguardar 30 segundos para prosseguir.
