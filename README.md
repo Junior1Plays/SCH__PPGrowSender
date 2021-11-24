@@ -22,7 +22,7 @@ quando 150 mensagens for enviadas, o terminal/console irá aguardar 30 segundos 
 
 # Como rodar no Android/Termux
 
-- Tenha o Termux inatalado;
+- Tenha o Termux instalado;
 - Abra uma sessão Termux;
 - Digite "**pkg install python3**" (sem aspas), espere pedir a confirmação, e quando pedir, digite "**y**" (sem aspas);
 - Quando a instalação for concluída, digite "**pkg install git**" (sem aspas), espere pedir a confirmação, e quando pedir, digite "**y**" (sem aspas);
