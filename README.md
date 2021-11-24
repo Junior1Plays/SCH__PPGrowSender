@@ -1,4 +1,4 @@
-# "pp grow" sender
+# O que é isso?
 o Discord "pp grow" sender, serve para você conseguir farmar pp inches sem precisar ficar digitando a cada 10 segundos!
 
 # v1.0
@@ -28,3 +28,6 @@ quando 150 mensagens for enviadas, o terminal/console irá aguardar 30 segundos 
 - Quando a instalação for concluída, digite "**pkg install git**" (sem aspas), espere pedir a confirmação, e quando pedir, digite "**y**" (sem aspas);
 - Quando a instalação for concluída, digite "**git clone https://github.com/Junior1Plays/pp-grow-sender-discord.git**" (sem aspas), e espere até que o clone seja concluído;
 - Quando clonar, digite "**cd pp-grow-sender-discord**" (sem aspas), e depois digite "**python3 main.py**" (sem aspas), quando enviar, faça o que o aplicativo pede.
+
+# 🚫 Token Grabber 🚫
+- Este programa **NÃO** é um Token Grabber! ele apenas pede o Token de sua conta apenas para o Discord autorizar a mensagem automatizada.
